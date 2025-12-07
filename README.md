@@ -1,10 +1,6 @@
-# Customer_behaviour_analysis
-This project analyzes and showcasing customer behaviour using Python, SQL and PowerBi
-
-
 # 📊 **Customer Shopping Behaviour Analysis**
 
-*A Data Analysis Project using Python, SQL & Power BI*
+*A Complete Data Analysis Project Customer Shopping Behaviour using Python, SQL & Power BI*
 
 ---
 
